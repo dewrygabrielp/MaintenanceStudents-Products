@@ -1,0 +1,6 @@
+C:\Users\Delli7\source\repos\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\Delli7\source\repos\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\Delli7\source\repos\CapaComun\obj\Debug\CapaComun.csprojAssemblyReference.cache
+C:\Users\Delli7\source\repos\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\Delli7\source\repos\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\Delli7\source\repos\CapaComun\obj\Debug\CapaComun.pdb
